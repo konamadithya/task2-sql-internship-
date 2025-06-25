@@ -1,1 +1,0 @@
-# task2-sql-internship-
